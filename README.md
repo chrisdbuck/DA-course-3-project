@@ -1,4 +1,4 @@
-This is the repository for the third project of my Data Analytics programme.
+I submitted this project for the final assignment of the six-week Advanced Analytics for Organisational Impact course in the LSE Data Analytics Career Accelerator programme.
 
 ## Files
 [Project Overview](https://chrisdbuck.github.io/DA-course-3-project/overview.html)
